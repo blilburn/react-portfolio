@@ -1,13 +1,14 @@
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
+import Hero from "../components/Hero/index";
 function About() {
     return (
         <div>
             <Container style={{ marginTop: 30 }}>
                 <Row>
                     <Col size="md-12">
-                        {/* <Hero></Hero> */}
+                        <Hero></Hero>
                     </Col>
                     <Col size="md-12">
                         <h1>I'm Bryan Lilburn</h1>
