@@ -1,14 +1,13 @@
 import Container from "../components/Container";
 import Row from "../components/Row/index";
 import Col from "../components/Col/index";
-import Hero from "../components/Hero/index";
+
 function About() {
     return (
         <div>
             <Container style={{ marginTop: 30 }}>
                 <Row>
                     <Col size="md-12">
-                        <Hero></Hero>
                         <div>
                 <img className='mx-auto mb-4 sm:mb-0 flex-shrink' src="\forprofile5.jpg" alt="Bryan Lilburn"/>
                 </div>

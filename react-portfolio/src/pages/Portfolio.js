@@ -1,7 +1,7 @@
 import Container from "../components/Container"
 import Row from "../components/Row"
 import Col from "../components/Col"
-
+import Hero from "../components/Hero"
 
 function Portfolio() {
     return(
@@ -14,7 +14,7 @@ function Portfolio() {
                 </Row>
                 <Row>
                     <Col size="md-12">
-                    <p>Projects</p>
+                    <Hero></Hero>
                     </Col>
                 </Row>
             </Container>
