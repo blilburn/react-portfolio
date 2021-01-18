@@ -12,12 +12,9 @@ function Footer() {
                  <a href="https://www.linkedin.com/in/bryanlilburn/" rel="noreferrer" target="_blank" type="btn">
                                 LinkedIn <i class="fab fa-linkedin-in"></i>
                             </a>
-                        
-
                             <a href="https://github.com/blilburn" rel="noreferrer" target="_blank" type="btn">
                                 Github<i class="fab fa-github"></i>
-                            </a>
-                            
+                            </a>   
                 </Col>
             </Row>
             </footer>
