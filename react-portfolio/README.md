@@ -13,7 +13,9 @@ This portfolio was designed to have a responsive layout using Bootstrap's grid s
 * Portfolio
 
 Each page contains a functional navbar to navigate to each section. The portfolio section has images and links to projects that have been completed.
+![empoy](./public\aboutportfolio.JPG)
 
+![empoy](./public\portscreenshot.JPG)
 ## Project Status
 
 This portfolio is currently a work-in-progress and will be updated continuously. 
